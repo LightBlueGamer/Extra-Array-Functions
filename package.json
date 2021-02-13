@@ -1,0 +1,11 @@
+{
+  "name": "extraarrayfunctions",
+  "version": "1.0.3",
+  "description": "A simple package with some utilities for arrays",
+  "main": "src/index.js",
+  "keywords": [
+    "arrays"
+  ],
+  "author": "LightBlueGamer",
+  "license": "ISC"
+}

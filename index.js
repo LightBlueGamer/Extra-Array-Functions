@@ -20,7 +20,7 @@ Array.prototype.toObject = function() {
   tc(this);
   const obj = {};
   for(let i = 0; i<this.length; i++) {
-    obj[`key${i+1}`] = this[i];
+    obj[i] = this[i];
   };
   return obj;
 };

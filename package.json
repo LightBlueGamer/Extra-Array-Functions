@@ -3,6 +3,10 @@
   "version": "1.0.3",
   "description": "A simple package with some utilities for arrays",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightBlueGamer/Extra-Array-Functions"
+  },
   "keywords": [
     "arrays"
   ],
